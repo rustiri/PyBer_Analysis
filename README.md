@@ -19,6 +19,8 @@ There is a description of the differences in ride-sharing data among the differe
   
 ![alt text](analysis/pyber_summary.png)
 
+The multiple line plots below shows the total weekly of the fares for each type of city
+
 ![alt text](analysis/PyBer_fare_summary.png)
   
 ## Summary
