@@ -24,4 +24,4 @@ The multiple line plots below shows the total weekly of the fares for each type 
 ![alt text](analysis/PyBer_fare_summary.png)
   
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
+It is difficult to calculate the true cost comparison, considering there is no data showing travel time and distance traveled. There is no rate difference for peak hours that may provide optimum travel times for employees. It may be beneficial to calculate the differences in costs based on distance and peak versus off peak travel times.
