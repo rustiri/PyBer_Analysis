@@ -1,4 +1,4 @@
-# PyBer Rise Sharing Analysis
+# PyBer Ride Sharing Analysis
 
 ## Overview of Project
 Create visualization of rideshare data for PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods (i.e.: Urban, Suburban, Rural) with the following tasks to complete.
